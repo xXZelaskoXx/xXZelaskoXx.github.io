@@ -1,0 +1,39 @@
+*:not(input){
+	color: skyblue	!important;
+	background: black	!important;
+	border-color: skyblue 	!important;
+	outline-color: skyblue 	!important;
+}
+
+*{
+		color: skyblue	!important;
+}
+
+tbody{
+	background: grey !important;
+	color: skyblue !important;
+}
+
+b{
+	background: grey !important;
+	color: skyblue !important;
+}
+
+iframe{
+	background: grey !important;
+	color: skyblue !important;
+}
+
+table{
+	background: grey !important;
+	color: skyblue !important;
+}
+
+font{
+	background: grey !important;
+	color: skyblue !important;
+}
+input[type=text]{
+	background: black !important;
+	color: skyblue !important;
+}
