@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 04 - Lab - Dylan Zelasko</title>
+
+<!--initialize stylesheet-->
+
+    <link rel="stylesheet" href="./Module04_Files/styles.css">
+
+<!-- Initialize JQuery -->
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<!--Call javascript file-->
+    
+    <script src="./Module04_Files/main.js"></script>
+
+</head>
+<body>
+
+<!--Button to call function that generates our input for the <p> element-->
+
+    <button class ="center" onclick="getAdvice()">Get Advice</button>
+
+<!-- <p> container for received advice from API-->
+
+    <p class="center" id="advice"></p>
+
+<!-- <p> container for how much advice has been received-->
+    
+    <p class="center">Received <span id="adviceCount">0</span> pieces of advice</p>
+
+</body>
+</html>

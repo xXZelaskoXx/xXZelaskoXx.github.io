@@ -1,0 +1,76 @@
+<!--
+name: Dylan Zelasko
+WEBT 2300: Lab 07
+filename: index.html
+
+purpose: landing page + API call container
+uses: ,,,, */main.js -> local
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>C o o l g u y s O N L Y</title>
+
+<!-- Initialize JQuery -->
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+
+<!--initialize stylesheet-->
+
+    <link rel="stylesheet" href="Module07_Files/Styles.css">
+
+<!--Initialize main.js-->
+
+    <script src="Module07_Files/main.js"></script>
+
+<!-- Call code for webpage -->
+    <script type="text/javascript">
+        $(document).ready(function(){
+            getQuote(); 
+            getFox();
+            getAdvice();
+        });
+    </script>
+
+</head>
+<body>
+    <h1 class="center">C o o o o o l  _ g u y s  _ o n l y</h1>
+    <hr>
+    <table>
+        <tr class="center">
+            <td style="width: 50%;">
+                <h2>So you think your a cool guy!? This is what cool guys say -</h2>
+            </td>
+            <td>
+                <h2 id="rsquote">placeholder</h2>
+            </td>
+        </tr>
+    </table>
+    <hr>
+    <table>
+        <tr class="center">
+            <td style="width:50%;">
+                <h2>get a job.... LOSER</h2>
+            </td>
+            <td class="center">
+                <img style="width: 300px;height: 300px; "class="center" src="https://th.bing.com/th/id/R.1cc61968cf9336a6c7a7a36b352b9abc?rik=5Cq6fqqUWzvsog&riu=http%3a%2f%2fimg2.wikia.nocookie.net%2f__cb20131129221253%2ffantendo%2fimages%2f7%2f74%2fDonkey_Kong_Profile_Artwork.jpg&ehk=DcQsoCV079EpdRfsH7oeICI1p4sXxGVeMqOmzR%2bCKsI%3d&risl=&pid=ImgRaw&r=0" id="jobfox">
+            </td>
+        </tr> 
+        <tr>
+            <td>
+                <h2>You seem to need advice...
+            </td>
+            <td>
+                <h2 id="advice">placeholder</h2>
+            </td>
+        </tr>
+
+
+    </table>
+
+
+</body>
+</html>

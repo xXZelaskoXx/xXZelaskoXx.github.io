@@ -1,0 +1,415 @@
+<!--
+Dylan Zelasko
+
+WEBT2300
+
+Module03 Lab
+-->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Module 03 - Lab - Dylan Zelasko</title>
+
+<!-- Initializes stylesheet-->
+
+    <link rel="stylesheet" href="./Module03_Files/style.css">
+
+<!-- calls jquery into document-->
+
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<!-- calls js file that has the functions used in this project-->
+
+    <script src = "./Module03_Files/main.js"></script>
+
+<!-- Calls setName in js file upon document ready-->
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            setName(); 
+        });
+    </script>
+
+
+
+</head>
+<body>
+    <h1>~    Rate These Burger Joints    ~</h1>
+    <a href='WEBT2300-Module02-Lab.html'>Click here for legacy version!</a>
+    <table>
+        <tr>
+            <td></td>
+            <td style="color:palevioletred;">McDonald's</td>
+            <td style="color:blueviolet;">Wendy's</td>
+            <td style="color:palegoldenrod;">Burger King</td>
+            <td style="color:steelblue;">Pal's</td>
+            <td style="color:antiquewhite;">Dairy Queen</td>
+        </tr>
+        <tr>
+            <td style="color:antiquewhite;">Da Burger</td>
+            <td>
+                <select id="00">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="01">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="02">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="03">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="04">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td style="color:steelblue;">Da Fries</td>
+            <td>
+                <select id="10">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="11">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="12">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="13">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="14">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td style="color:palegoldenrod;">Da Drink</td>
+            <td>
+                <select id="20">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="21">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="22">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="23">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="24">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td style="color:blueviolet;">Da Service</td>
+            <td>
+                <select id="30">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="31">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="32">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="33">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="34">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td style="color:palevioletred;">Da Dessert</td>
+            <td>
+                <select id="40">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="41">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="42">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="43">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+            <td>
+                <select id="44">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                    <option value="4">4</option>
+                    <option value="5">5</option>
+                </select>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+    </br>
+
+
+    <img src="Module03_Files/DK.jfif" alt ="DK is very sad" class="center" height="300" width="420" >
+    </img>
+
+
+    <p>How much do these matter at the joint? (number from 1 to 10)</p>
+
+
+    <table>
+        <tr>
+            <td>Weights By User</td>
+            <td style="color:palevioletred;">Burger</td>
+            <td style="color:blueviolet;">Fries</td>
+            <td style="color:palegoldenrod;">Drink</td>
+            <td style="color:steelblue;">Service</td>
+            <td style="color:antiquewhite;">Dessert</td>
+        </tr>
+        <tr>
+            <td id="user1" style="color:palevioletred;">User 1 Header</td>
+
+            <td >
+               <input id ="w00" type="text"> 
+            </td>
+            <td >
+                <input id ="w10" type="text">
+            </td>
+            <td >
+                <input id ="w20" type="text">
+            </td>
+            <td >
+                <input id ="w30" type="text">
+            </td>
+            <td >
+                <input id = "w40" type="text">
+            </td>
+        </tr>    
+        <tr>
+            <td id ="user2" style="color:limegreen;">User 2 Header</td>
+
+            <td >
+                <input id ="w01" type="text">
+            </td>
+            <td >
+                <input id="w11" type="text">
+            </td>
+            <td >
+                <input id="w21" type="text">
+            </td>
+            <td >
+                <input id="w31" type="text">
+            </td>
+            <td >
+                <input id="w41" type="text">
+            </td>
+        </tr>    
+        <tr>
+            <td id ="user3" style="color:lightskyblue;">User 3 Header</td>
+
+            <td >
+                <input id ="w02" type="text">
+            </td>
+            <td >
+                <input id="w12" type="text">
+            </td>
+            <td >
+                <input id= "w22" type="text">
+            </td>
+            <td >
+                <input id="w32" type="text">
+            </td>
+            <td >
+                <input id="w42" type="text">
+            </td>
+        </tr>
+    </table>
+    <br>
+    </br>
+
+
+    <button id ="CalculateButton" onclick="Calculate()">Calculate</button>  
+
+
+    <p>Results</p>
+    <table>
+        <tr>
+            <td>Scores By User</td>
+            <td style="color:palevioletred;">McDonald's</td>
+            <td style="color:blueviolet;">Wendy's</td>
+            <td style="color:palegoldenrod;">Burger King</td>
+            <td style="color:steelblue;">Pal's</td>
+            <td style="color:antiquewhite;">Dairy Queen</td>
+        </tr>
+        <tr>
+            <td id ="user1H" style="color:palevioletred;">User 1 Score Header</td>
+            <td id ="sc00">Score 1</td>
+            <td id ="sc10">Score 2</td>
+            <td id ="sc20">Score 3</td>
+            <td id ="sc30">Score 4</td>
+            <td id ="sc40">Score 5</td>
+        </tr>
+        <tr>
+            <td id ="user2H" style="color:limegreen;">User 2 Score Header</td>
+            <td id ="sc01">Score 1</td>
+            <td id ="sc11">Score 2</td>
+            <td id ="sc21">Score 3</td>
+            <td id ="sc31">Score 4</td>
+            <td id ="sc41">Score 5</td>
+        </tr>
+        <tr>
+            <td id ="user3H" style="color:lightskyblue;">User 3 Score Header</td>
+            <td id ="sc02">Score 1</td>
+            <td id ="sc12">Score 2</td>
+            <td id ="sc22">Score 3</td>
+            <td id ="sc32">Score 4</td>
+            <td id ="sc42">Score 5</td>
+        </tr>
+    </table>
+    <br>
+</body>
+</html>

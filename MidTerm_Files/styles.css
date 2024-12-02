@@ -1,0 +1,56 @@
+*{
+	background: black;
+	color: skyblue !important;
+}
+
+
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+p{
+	font-size: 2em;
+}
+
+button{
+	padding: 10px;
+	border: 3px solid;
+	border-color: skyblue;
+	font-size: 2em;
+}
+
+input{
+	color: black;
+	font-size: 2em;
+	border: 3px solid skyblue;
+	margin: 8PX;
+}
+
+td{
+	font-size: 2.5em;
+}
+
+h1{
+	font-size: 2.5em;
+}
+
+img{
+	width: 45%;
+	height: 45%;
+	border: 5px solid skyblue;
+	margin: 10px;
+}
+
+tr{
+	border: 3 px solid skyblue;
+}
+
+h2{
+	border: 3 px solid skyblue;
+	font-size: 2.5em;
+	width: 10%;
+}

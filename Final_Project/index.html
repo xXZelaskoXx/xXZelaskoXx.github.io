@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Show Me the Money</title>
+
+<!--initialize stylesheet-->
+
+    <link rel="stylesheet" href="./SMTM/styles.css">
+
+<!-- Initialize JQuery -->
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<!--Call javascript file-->
+    
+    <script src="./SMTM/main.js"></script>
+
+</head>
+<body>
+    <h1 class="center">Show Me the Money: Currency Converter</h1>
+    <hr style="border-color: skyblue;width: 90%;">
+
+<!--Block of text to welcome user-->
+    <p class="center">Welcome to Show Me the Money, an online tool for currency conversion. To use this tool, simply select from the dropdown menus the currencies you would like to convert as well as the amount of the first currency to be converted. For a conversion rate, enter 1 in the currency amount box. Additionally, the tool will list games that the amount provided would be able to purchase per the Cheapshark API should the funds be converted to USD.</p>
+    <p class="center">Thank you for using SMTM!</p>
+    <hr style="border-color: skyblue;width: 70%;">
+    
+<!--Table to contain dropdown menus for currency comparison and quantities-->
+    <table>
+<!--Row for Labels of Currency 1, to, and Currency 2-->
+        <tr>
+            <td>
+                <h1 style="text-align: right;margin-right: 2%;">Currency 1</h2>
+            </td>
+            <td>
+                <h2 class="center"> ← to → </h2>
+            </td>
+            <td>
+                <h1 style="text-align:left;margin-left: 2;">Currency 2</h2>
+            </td>
+        </tr>
+    </table>
+
+<!--Dropdowns for currency options-->
+    <table style="width:64%">    
+        <tr>
+            <td>
+                <select id="c1" style="font-size: 2em;" class="center">
+                    <option value="aud">AUD $</option>
+                    <option value="cad">CAD $</option>
+                    <option value="chf">CHF ₣</option>
+                    <option value="cnh">CNH ¥</option>
+                    <option value="eur">EUR €</option>
+                    <option value="gbp">GBP £</option>
+                    <option value="hkd">HKD $</option>
+                    <option value="jpy">JPY ¥</option>
+                    <option value="nzd">NZD $</option>
+                    <option value="usd">USD $</option>
+                </select>
+            </td>
+            <td>
+                <select id="c2" style="font-size:2em;" class="center">
+                    <option value="aud">AUD $</option>
+                    <option value="cad">CAD $</option>
+                    <option value="chf">CHF ₣</option>
+                    <option value="cnh">CNH ¥</option>
+                    <option value="eur">EUR €</option>
+                    <option value="gbp">GBP £</option>
+                    <option value="hkd">HKD $</option>
+                    <option value="jpy">JPY ¥</option>
+                    <option value="nzd">NZD $</option>
+                    <option value="usd">USD $</option>
+                </select>
+            </td>
+        </tr>
+    </table>
+
+    <br>
+    <br>
+
+    <input style="font-size:2em;" class="center" type="text" placeholder="Amount of Currency 1" id="amount"></input>
+    <br>
+    <br>
+
+    <button class="center" onclick="getExchangeRate()">Know Your Worth!</button>
+    <br>
+    <hr style="border-color:skyblue;width: 80%;">
+    <br>
+
+<!--Containers for results-->
+    <h1 class="center" id="worth">Your Worth is...</h1>
+    <br>
+    <h1 class="center" id="usdString">Calculate an exchange rate to learn what this section is for!</h1>
+    <hr style="border-color:skyblue;width: 80%;">
+
+<!--img element for game image-->
+    <br>
+    <img style="border: 4px solid skyblue;visibility: hidden;" id="gameIMG" class="center" src="">
+    <br>
+
+<!--Table to contain found game!-->
+    <h1 style="visibility: hidden;" class="center" id="gameTitle"></h1>
+
+    <hr id="hhr1" style="visibility: hidden;border-color:skyblue;width: 80%;">
+
+    <h2 style="visibility: hidden;" class="center" id="normalPrice"></h2>
+    <h2 style="visibility: hidden;" class="center" id="gamePrice"></h2>
+
+    <hr id="hhr2" style="visibility: hidden;border-color:skyblue;width: 80%;">
+
+    <p class="center" id="dealRating"></p>
+
+    <hr style="visibility: hidden;border-color:skyblue;width: 80%;">
+
+    <h1 class="center" id="remainder"></h1>
+
+    <p style="font-size: 1em" class="center" id="gameList"></p>
+
+</body>
+<footer class="center">
+    This is my final project submission for Gerald Burke's WEBT 2300 course at NESCC, Fall 2024. Special thanks to the contributors of the exchange API and CheapShark API. It has been a great semester, I'll miss you all -Dyzel :)
+</footer>
+</html>

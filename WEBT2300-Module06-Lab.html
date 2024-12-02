@@ -1,0 +1,56 @@
+<!--
+name: Dylan Zelasko
+WEBT 2300: Lab 06
+filename: index.html
+
+purpose: landing page + API call container
+uses: https://opentdb.com/api.php?amount=1, */main.js -> local
+-->
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trivia! -</title>
+
+<!-- Initialize JQuery -->
+    
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+<!--initialize stylesheet-->
+
+    <link rel="stylesheet" href="Module06_Files/Styles.css">
+
+<!--Initialize main.js-->
+
+	<script src="Module06_Files/main.js"></script>
+</head>
+
+<!--end head-->
+
+<body>
+    <h1 class="center">-Trivia Game-</h1>
+    <h2 class="center" id="qNum">Question 1</h2>
+    <hr>
+
+    <h2 class="center" id="question" style="width: 75%">placeholder</h2>
+
+    <br>
+    <button class="center" onclick="submitAnswer(answers[0],correctAnswer)" id="a0"></button>
+    <br>
+    <button class="center" onclick="submitAnswer(answers[1],correctAnswer)" id="a1"></button>
+    <br>
+    <button class="center" onclick="submitAnswer(answers[2],correctAnswer)" id="a2"></button>
+    <br>
+    <button class="center" onclick="submitAnswer(answers[3],correctAnswer)" id="a3"></button>
+    <br>
+    <hr>
+    <br>
+    <button class="center" onclick="getQuestion()">New Question!</button>
+    <p id="score" class="center">Score: </p>
+
+</body>
+
+<!--end body-->
+
+</html>

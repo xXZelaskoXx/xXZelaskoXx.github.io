@@ -1,0 +1,22 @@
+*{
+	background: black !important;
+	color: skyblue !important;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+p{
+	font-size: 2em;
+}
+
+button{
+	padding: 10px;
+	border: 3px solid;
+	border-color: skyblue;
+	font-size: 3em;
+}

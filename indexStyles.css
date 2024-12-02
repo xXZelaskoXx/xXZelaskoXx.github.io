@@ -1,0 +1,16 @@
+.center{
+	text-align: center;
+	margin-left: auto ;
+	margin-right: auto;
+}
+
+*{
+	color: skyblue !important;
+	background: black !important;
+	border-color: skyblue !important;
+	outline-color: skyblue !important;
+}
+
+p{
+  font-size: 2em;
+}
