@@ -1,0 +1,129 @@
+RuneScape 3 Current Skill Levels as of 2025-01-08
+
+Username: GummySSB
+
+
+
+Skill Name, Global Rank, Level, Experience
+
+Overall: 652884, 1223, 6843284
+Attack: 549761, 74, 1118281
+Defence: 652684, 65, 480276
+Strength: 506082, 78, 1678588
+Constitution: 603689, 73, 1041198
+Ranged: 707409, 52, 128251
+Prayer: 689098, 48, 86868
+Magic: 809560, 50, 104432
+Cooking: 826818, 48, 87572
+Woodcutting: 576732, 71, 867522
+Fletching: 840655, 28, 11738
+Fishing: 737099, 54, 153091
+Firemaking: 837692, 46, 69302
+Crafting: 748418, 48, 88716
+Smithing: 823411, 46, 71813
+Mining: 884582, 48, 88950
+Herblore: 629253, 38, 33100
+Agility: 550581, 54, 157105
+Thieving: 458207, 59, 270738
+Slayer: 669729, 37, 29950
+Farming: 605933, 29, 12534
+Runecrafting: 874578, 21, 5103
+Hunter: 588551, 39, 35008
+Construction: 658031, 32, 16828
+Summoning: 646420, 19, 4270
+Dungeoneering: 491882, 56, 201339
+Divination: -1, 1, -1
+Invention: -1, 0, -1
+Archaeology: -1, 1, -1
+Necromancy: -1, 1, -1
+
+
+Free to Play Skills (Alphabetical)
+
+Attack: 549761, 74, 1118281
+Constitution: 603689, 73, 1041198
+Cooking: 826818, 48, 87572
+Crafting: 748418, 48, 88716
+Defence: 652684, 65, 480276
+Dungeoneering: 491882, 56, 201339
+Firemaking: 837692, 46, 69302
+Fishing: 737099, 54, 153091
+Fletching: 840655, 28, 11738
+Magic: 809560, 50, 104432
+Mining: 884582, 48, 88950
+Prayer: 689098, 48, 86868
+Ranged: 707409, 52, 128251
+Runecrafting: 874578, 21, 5103
+Smithing: 823411, 46, 71813
+Strength: 506082, 78, 1678588
+Woodcutting: 576732, 71, 867522
+
+
+Member Skills (Alphabetical)
+
+Agility: 550581, 54, 157105
+Archaeology: -1, 1, -1
+Construction: 658031, 32, 16828
+Divination: -1, 1, -1
+Farming: 605933, 29, 12534
+Herblore: 629253, 38, 33100
+Hunter: 588551, 39, 35008
+Invention: -1, 0, -1
+Necromancy: -1, 1, -1
+Slayer: 669729, 37, 29950
+Summoning: 646420, 19, 4270
+Thieving: 458207, 59, 270738
+
+
+Skills Sorted By Type (Alphabetical)
+
+Combat Skills:
+
+Attack: 549761, 74, 1118281
+Constitution: 603689, 73, 1041198
+Defence: 652684, 65, 480276
+Magic: 809560, 50, 104432
+Necromancy: -1, 1, -1
+Prayer: 689098, 48, 86868
+Ranged: 707409, 52, 128251
+Strength: 506082, 78, 1678588
+Summoning: 646420, 19, 4270
+
+
+Gathering Skills:
+
+Archaeology: -1, 1, -1
+Divination: -1, 1, -1
+Farming: 605933, 29, 12534
+Fishing: 737099, 54, 153091
+Hunter: 588551, 39, 35008
+Mining: 884582, 48, 88950
+Woodcutting: 576732, 71, 867522
+
+
+Artisan Skills:
+
+Construction: 658031, 32, 16828
+Cooking: 826818, 48, 87572
+Crafting: 748418, 48, 88716
+Firemaking: 837692, 46, 69302
+Fletching: 840655, 28, 11738
+Herblore: 629253, 38, 33100
+Runecrafting: 874578, 21, 5103
+Smithing: 823411, 46, 71813
+
+
+Support Skills:
+
+Agility: 550581, 54, 157105
+Dungeoneering: 491882, 56, 201339
+Invention: -1, 0, -1
+Slayer: 669729, 37, 29950
+Thieving: 458207, 59, 270738
+
+
+Thank you for using this tool. Special thanks to Edgar Bowlin III for access to RASPIA.
+
+-FIN-
+
+

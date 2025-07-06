@@ -1,0 +1,127 @@
+RuneScape 3 Current Skill Levels as of 2024-10-16
+
+Username: Soon T M
+
+As Returned Per API
+
+Skill Name, Global Rank, Level, Experience
+
+Overall: 156573, 2800, 377845521
+Attack: 335456, 90, 5525357
+Defence: 301777, 97, 10711095
+Strength: 362372, 90, 5397810
+Constitution: 244192, 99, 18269952
+Ranged: 327453, 90, 5512036
+Prayer: 234760, 99, 13089336
+Magic: 354824, 91, 6186066
+Cooking: 264251, 94, 8768876
+Woodcutting: 247248, 97, 10838062
+Fletching: 251007, 96, 9829053
+Fishing: 232184, 96, 10292546
+Firemaking: 296986, 91, 6095474
+Crafting: 244063, 93, 7508602
+Smithing: 128049, 100, 15325538
+Mining: 96458, 105, 23782842
+Herblore: 181800, 100, 15336586
+Agility: 227196, 94, 8224450
+Thieving: 208015, 96, 10235061
+Slayer: 244247, 96, 9695451
+Farming: 163409, 100, 14924510
+Runecrafting: 209669, 91, 6254234
+Hunter: 201272, 97, 11035721
+Construction: 209674, 94, 8571983
+Summoning: 231432, 96, 10508362
+Dungeoneering: 212470, 95, 9546137
+Divination: 198346, 97, 10939557
+Invention: 159285, 104, 45977333
+Archaeology: 130829, 102, 19164159
+Necromancy: 72526, 110, 40299332
+
+
+Free to Play Skills (Alphabetical)
+
+Attack: 335456, 90, 5525357
+Constitution: 244192, 99, 18269952
+Cooking: 264251, 94, 8768876
+Crafting: 244063, 93, 7508602
+Defence: 301777, 97, 10711095
+Dungeoneering: 212470, 95, 9546137
+Firemaking: 296986, 91, 6095474
+Fishing: 232184, 96, 10292546
+Fletching: 251007, 96, 9829053
+Magic: 354824, 91, 6186066
+Mining: 96458, 105, 23782842
+Prayer: 234760, 99, 13089336
+Ranged: 327453, 90, 5512036
+Runecrafting: 209669, 91, 6254234
+Smithing: 128049, 100, 15325538
+Strength: 362372, 90, 5397810
+Woodcutting: 247248, 97, 10838062
+
+
+Member Skills (Alphabetical)
+
+Agility: 227196, 94, 8224450
+Archaeology: 130829, 102, 19164159
+Construction: 209674, 94, 8571983
+Divination: 198346, 97, 10939557
+Farming: 163409, 100, 14924510
+Herblore: 181800, 100, 15336586
+Hunter: 201272, 97, 11035721
+Invention: 159285, 104, 45977333
+Necromancy: 72526, 110, 40299332
+Slayer: 244247, 96, 9695451
+Summoning: 231432, 96, 10508362
+Thieving: 208015, 96, 10235061
+
+
+Skills Sorted By Type (Alphabetical)
+
+Combat Skills:
+
+Attack: 335456, 90, 5525357
+Constitution: 244192, 99, 18269952
+Defence: 301777, 97, 10711095
+Magic: 354824, 91, 6186066
+Necromancy: 72526, 110, 40299332
+Prayer: 234760, 99, 13089336
+Ranged: 327453, 90, 5512036
+Strength: 362372, 90, 5397810
+Summoning: 231432, 96, 10508362
+
+
+Gathering Skills:
+
+Archaeology: 130829, 102, 19164159
+Divination: 198346, 97, 10939557
+Farming: 163409, 100, 14924510
+Fishing: 232184, 96, 10292546
+Hunter: 201272, 97, 11035721
+Mining: 96458, 105, 23782842
+Woodcutting: 247248, 97, 10838062
+
+
+Artisan Skills:
+
+Construction: 209674, 94, 8571983
+Cooking: 264251, 94, 8768876
+Crafting: 244063, 93, 7508602
+Firemaking: 296986, 91, 6095474
+Fletching: 251007, 96, 9829053
+Herblore: 181800, 100, 15336586
+Runecrafting: 209669, 91, 6254234
+Smithing: 128049, 100, 15325538
+
+
+Support Skills:
+
+Agility: 227196, 94, 8224450
+Dungeoneering: 212470, 95, 9546137
+Invention: 159285, 104, 45977333
+Slayer: 244247, 96, 9695451
+Thieving: 208015, 96, 10235061
+
+
+Thank you for using this tool. Special thanks to Edgar Bowlin III for access to RASPIA.
+
+-FIN-

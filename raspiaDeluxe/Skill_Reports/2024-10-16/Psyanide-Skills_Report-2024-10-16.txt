@@ -1,0 +1,127 @@
+RuneScape 3 Current Skill Levels as of 2024-10-16
+
+Username: Psyanide
+
+As Returned Per API
+
+Skill Name, Global Rank, Level, Experience
+
+Overall: 14122, 3040, 3340007695
+Attack: 28303, 99, 104472144
+Defence: 27323, 99, 150836867
+Strength: 27423, 99, 104514279
+Constitution: 28018, 99, 200000000
+Ranged: 26084, 99, 135619713
+Prayer: 17483, 99, 106190092
+Magic: 33799, 99, 123956442
+Cooking: 16165, 99, 104854470
+Woodcutting: 12772, 99, 113977288
+Fletching: 22167, 99, 66979290
+Fishing: 27629, 99, 104377808
+Firemaking: 38479, 99, 52501148
+Crafting: 47123, 99, 28099436
+Smithing: 16505, 110, 106733325
+Mining: 18161, 110, 116795596
+Herblore: 25418, 120, 130507650
+Agility: 17108, 99, 114725566
+Thieving: 54263, 99, 39409116
+Slayer: 7429, 120, 200000000
+Farming: 22371, 120, 193803497
+Runecrafting: 15566, 99, 105837849
+Hunter: 25142, 99, 104684235
+Construction: 14042, 99, 108204804
+Summoning: 17545, 99, 106769259
+Dungeoneering: 34201, 120, 117868235
+Divination: 27260, 99, 59495239
+Invention: 23416, 120, 200000000
+Archaeology: 48266, 120, 118259148
+Necromancy: 25212, 120, 120535199
+
+
+Free to Play Skills (Alphabetical)
+
+Attack: 28303, 99, 104472144
+Constitution: 28018, 99, 200000000
+Cooking: 16165, 99, 104854470
+Crafting: 47123, 99, 28099436
+Defence: 27323, 99, 150836867
+Dungeoneering: 34201, 120, 117868235
+Firemaking: 38479, 99, 52501148
+Fishing: 27629, 99, 104377808
+Fletching: 22167, 99, 66979290
+Magic: 33799, 99, 123956442
+Mining: 18161, 110, 116795596
+Prayer: 17483, 99, 106190092
+Ranged: 26084, 99, 135619713
+Runecrafting: 15566, 99, 105837849
+Smithing: 16505, 110, 106733325
+Strength: 27423, 99, 104514279
+Woodcutting: 12772, 99, 113977288
+
+
+Member Skills (Alphabetical)
+
+Agility: 17108, 99, 114725566
+Archaeology: 48266, 120, 118259148
+Construction: 14042, 99, 108204804
+Divination: 27260, 99, 59495239
+Farming: 22371, 120, 193803497
+Herblore: 25418, 120, 130507650
+Hunter: 25142, 99, 104684235
+Invention: 23416, 120, 200000000
+Necromancy: 25212, 120, 120535199
+Slayer: 7429, 120, 200000000
+Summoning: 17545, 99, 106769259
+Thieving: 54263, 99, 39409116
+
+
+Skills Sorted By Type (Alphabetical)
+
+Combat Skills:
+
+Attack: 28303, 99, 104472144
+Constitution: 28018, 99, 200000000
+Defence: 27323, 99, 150836867
+Magic: 33799, 99, 123956442
+Necromancy: 25212, 120, 120535199
+Prayer: 17483, 99, 106190092
+Ranged: 26084, 99, 135619713
+Strength: 27423, 99, 104514279
+Summoning: 17545, 99, 106769259
+
+
+Gathering Skills:
+
+Archaeology: 48266, 120, 118259148
+Divination: 27260, 99, 59495239
+Farming: 22371, 120, 193803497
+Fishing: 27629, 99, 104377808
+Hunter: 25142, 99, 104684235
+Mining: 18161, 110, 116795596
+Woodcutting: 12772, 99, 113977288
+
+
+Artisan Skills:
+
+Construction: 14042, 99, 108204804
+Cooking: 16165, 99, 104854470
+Crafting: 47123, 99, 28099436
+Firemaking: 38479, 99, 52501148
+Fletching: 22167, 99, 66979290
+Herblore: 25418, 120, 130507650
+Runecrafting: 15566, 99, 105837849
+Smithing: 16505, 110, 106733325
+
+
+Support Skills:
+
+Agility: 17108, 99, 114725566
+Dungeoneering: 34201, 120, 117868235
+Invention: 23416, 120, 200000000
+Slayer: 7429, 120, 200000000
+Thieving: 54263, 99, 39409116
+
+
+Thank you for using this tool. Special thanks to Edgar Bowlin III for access to RASPIA.
+
+-FIN-

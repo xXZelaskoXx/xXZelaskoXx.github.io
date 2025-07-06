@@ -1,0 +1,127 @@
+RuneScape 3 Current Skill Levels as of 2024-10-16
+
+Username: Ninja Pup
+
+As Returned Per API
+
+Skill Name, Global Rank, Level, Experience
+
+Overall: 157536, 2797, 426302101
+Attack: 329512, 90, 5731639
+Defence: 136903, 99, 21828025
+Strength: 351041, 90, 5731944
+Constitution: 271590, 99, 15439321
+Ranged: 291863, 94, 8597889
+Prayer: 173576, 99, 13769063
+Magic: 300867, 98, 12192990
+Cooking: 265655, 94, 8407982
+Woodcutting: 211506, 99, 13249269
+Fletching: 276766, 91, 6312693
+Fishing: 228659, 97, 11323462
+Firemaking: 280695, 93, 7856227
+Crafting: 240920, 93, 7911486
+Smithing: 250913, 97, 10909053
+Mining: 239607, 97, 11030047
+Herblore: 229638, 99, 13352303
+Agility: 52071, 99, 34199360
+Thieving: 215928, 93, 7541877
+Slayer: 231887, 98, 12434339
+Farming: 80414, 116, 71439477
+Runecrafting: 190492, 96, 10672340
+Hunter: 104818, 99, 15892231
+Construction: 50821, 99, 24367305
+Summoning: 245069, 94, 8651206
+Dungeoneering: 176786, 99, 13751071
+Divination: 184605, 99, 13089696
+Invention: 206826, 84, 18858589
+Archaeology: 181118, 93, 7423102
+Necromancy: 117932, 99, 14338115
+
+
+Free to Play Skills (Alphabetical)
+
+Attack: 329512, 90, 5731639
+Constitution: 271590, 99, 15439321
+Cooking: 265655, 94, 8407982
+Crafting: 240920, 93, 7911486
+Defence: 136903, 99, 21828025
+Dungeoneering: 176786, 99, 13751071
+Firemaking: 280695, 93, 7856227
+Fishing: 228659, 97, 11323462
+Fletching: 276766, 91, 6312693
+Magic: 300867, 98, 12192990
+Mining: 239607, 97, 11030047
+Prayer: 173576, 99, 13769063
+Ranged: 291863, 94, 8597889
+Runecrafting: 190492, 96, 10672340
+Smithing: 250913, 97, 10909053
+Strength: 351041, 90, 5731944
+Woodcutting: 211506, 99, 13249269
+
+
+Member Skills (Alphabetical)
+
+Agility: 52071, 99, 34199360
+Archaeology: 181118, 93, 7423102
+Construction: 50821, 99, 24367305
+Divination: 184605, 99, 13089696
+Farming: 80414, 116, 71439477
+Herblore: 229638, 99, 13352303
+Hunter: 104818, 99, 15892231
+Invention: 206826, 84, 18858589
+Necromancy: 117932, 99, 14338115
+Slayer: 231887, 98, 12434339
+Summoning: 245069, 94, 8651206
+Thieving: 215928, 93, 7541877
+
+
+Skills Sorted By Type (Alphabetical)
+
+Combat Skills:
+
+Attack: 329512, 90, 5731639
+Constitution: 271590, 99, 15439321
+Defence: 136903, 99, 21828025
+Magic: 300867, 98, 12192990
+Necromancy: 117932, 99, 14338115
+Prayer: 173576, 99, 13769063
+Ranged: 291863, 94, 8597889
+Strength: 351041, 90, 5731944
+Summoning: 245069, 94, 8651206
+
+
+Gathering Skills:
+
+Archaeology: 181118, 93, 7423102
+Divination: 184605, 99, 13089696
+Farming: 80414, 116, 71439477
+Fishing: 228659, 97, 11323462
+Hunter: 104818, 99, 15892231
+Mining: 239607, 97, 11030047
+Woodcutting: 211506, 99, 13249269
+
+
+Artisan Skills:
+
+Construction: 50821, 99, 24367305
+Cooking: 265655, 94, 8407982
+Crafting: 240920, 93, 7911486
+Firemaking: 280695, 93, 7856227
+Fletching: 276766, 91, 6312693
+Herblore: 229638, 99, 13352303
+Runecrafting: 190492, 96, 10672340
+Smithing: 250913, 97, 10909053
+
+
+Support Skills:
+
+Agility: 52071, 99, 34199360
+Dungeoneering: 176786, 99, 13751071
+Invention: 206826, 84, 18858589
+Slayer: 231887, 98, 12434339
+Thieving: 215928, 93, 7541877
+
+
+Thank you for using this tool. Special thanks to Edgar Bowlin III for access to RASPIA.
+
+-FIN-

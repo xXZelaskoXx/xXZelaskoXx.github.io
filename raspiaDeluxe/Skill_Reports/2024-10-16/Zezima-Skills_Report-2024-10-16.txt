@@ -1,0 +1,127 @@
+RuneScape 3 Current Skill Levels as of 2024-10-16
+
+Username: Zezima
+
+As Returned Per API
+
+Skill Name, Global Rank, Level, Experience
+
+Overall: 43574, 3021, 5616272197
+Attack: 386, 99, 200000000
+Defence: 760, 99, 200000000
+Strength: 401, 99, 200000000
+Constitution: 343, 99, 200000000
+Ranged: 573, 99, 200000000
+Prayer: 199, 99, 200000000
+Magic: 513, 99, 200000000
+Cooking: 2, 99, 200000000
+Woodcutting: 178, 99, 200000000
+Fletching: 81, 99, 200000000
+Fishing: 350, 99, 200000000
+Firemaking: 205, 99, 200000000
+Crafting: 181, 99, 200000000
+Smithing: 205, 110, 200000000
+Mining: 341, 110, 200000000
+Herblore: 299, 120, 200000000
+Agility: 110, 99, 200000000
+Thieving: 2, 99, 200000000
+Slayer: 350, 120, 200000000
+Farming: 315, 120, 200000000
+Runecrafting: 156, 99, 200000000
+Hunter: 172, 99, 200000000
+Construction: 159, 99, 200000000
+Summoning: 147, 99, 200000000
+Dungeoneering: 542, 120, 200000000
+Divination: 150, 99, 200000000
+Invention: 142, 120, 200000000
+Archaeology: 8387, 120, 200000000
+Necromancy: 110339, 101, 16272197
+
+
+Free to Play Skills (Alphabetical)
+
+Attack: 386, 99, 200000000
+Constitution: 343, 99, 200000000
+Cooking: 2, 99, 200000000
+Crafting: 181, 99, 200000000
+Defence: 760, 99, 200000000
+Dungeoneering: 542, 120, 200000000
+Firemaking: 205, 99, 200000000
+Fishing: 350, 99, 200000000
+Fletching: 81, 99, 200000000
+Magic: 513, 99, 200000000
+Mining: 341, 110, 200000000
+Prayer: 199, 99, 200000000
+Ranged: 573, 99, 200000000
+Runecrafting: 156, 99, 200000000
+Smithing: 205, 110, 200000000
+Strength: 401, 99, 200000000
+Woodcutting: 178, 99, 200000000
+
+
+Member Skills (Alphabetical)
+
+Agility: 110, 99, 200000000
+Archaeology: 8387, 120, 200000000
+Construction: 159, 99, 200000000
+Divination: 150, 99, 200000000
+Farming: 315, 120, 200000000
+Herblore: 299, 120, 200000000
+Hunter: 172, 99, 200000000
+Invention: 142, 120, 200000000
+Necromancy: 110339, 101, 16272197
+Slayer: 350, 120, 200000000
+Summoning: 147, 99, 200000000
+Thieving: 2, 99, 200000000
+
+
+Skills Sorted By Type (Alphabetical)
+
+Combat Skills:
+
+Attack: 386, 99, 200000000
+Constitution: 343, 99, 200000000
+Defence: 760, 99, 200000000
+Magic: 513, 99, 200000000
+Necromancy: 110339, 101, 16272197
+Prayer: 199, 99, 200000000
+Ranged: 573, 99, 200000000
+Strength: 401, 99, 200000000
+Summoning: 147, 99, 200000000
+
+
+Gathering Skills:
+
+Archaeology: 8387, 120, 200000000
+Divination: 150, 99, 200000000
+Farming: 315, 120, 200000000
+Fishing: 350, 99, 200000000
+Hunter: 172, 99, 200000000
+Mining: 341, 110, 200000000
+Woodcutting: 178, 99, 200000000
+
+
+Artisan Skills:
+
+Construction: 159, 99, 200000000
+Cooking: 2, 99, 200000000
+Crafting: 181, 99, 200000000
+Firemaking: 205, 99, 200000000
+Fletching: 81, 99, 200000000
+Herblore: 299, 120, 200000000
+Runecrafting: 156, 99, 200000000
+Smithing: 205, 110, 200000000
+
+
+Support Skills:
+
+Agility: 110, 99, 200000000
+Dungeoneering: 542, 120, 200000000
+Invention: 142, 120, 200000000
+Slayer: 350, 120, 200000000
+Thieving: 2, 99, 200000000
+
+
+Thank you for using this tool. Special thanks to Edgar Bowlin III for access to RASPIA.
+
+-FIN-

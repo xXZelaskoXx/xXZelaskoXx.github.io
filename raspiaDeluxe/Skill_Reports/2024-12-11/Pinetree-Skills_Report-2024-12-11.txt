@@ -1,0 +1,129 @@
+RuneScape 3 Current Skill Levels as of 2024-12-11
+
+Username: Pinetree
+
+
+
+Skill Name, Global Rank, Level, Experience
+
+Overall: 3941, 3073, 5800000000
+Attack: 5318, 99, 200000000
+Defence: 10660, 99, 200000000
+Strength: 5101, 99, 200000000
+Constitution: 5129, 99, 200000000
+Ranged: 12375, 99, 200000000
+Prayer: 7126, 99, 200000000
+Magic: 10296, 99, 200000000
+Cooking: 6841, 99, 200000000
+Woodcutting: 7325, 110, 200000000
+Fletching: 6623, 110, 200000000
+Fishing: 8650, 99, 200000000
+Firemaking: 1110, 110, 200000000
+Crafting: 6762, 99, 200000000
+Smithing: 4497, 110, 200000000
+Mining: 9681, 110, 200000000
+Herblore: 13559, 120, 200000000
+Agility: 3799, 99, 200000000
+Thieving: 10706, 99, 200000000
+Slayer: 13267, 120, 200000000
+Farming: 14329, 120, 200000000
+Runecrafting: 7363, 99, 200000000
+Hunter: 4993, 99, 200000000
+Construction: 5262, 99, 200000000
+Summoning: 6600, 99, 200000000
+Dungeoneering: 6529, 120, 200000000
+Divination: 5507, 99, 200000000
+Invention: 7601, 120, 200000000
+Archaeology: 1986, 120, 200000000
+Necromancy: 4730, 120, 200000000
+
+
+Free to Play Skills (Alphabetical)
+
+Attack: 5318, 99, 200000000
+Constitution: 5129, 99, 200000000
+Cooking: 6841, 99, 200000000
+Crafting: 6762, 99, 200000000
+Defence: 10660, 99, 200000000
+Dungeoneering: 6529, 120, 200000000
+Firemaking: 1110, 110, 200000000
+Fishing: 8650, 99, 200000000
+Fletching: 6623, 110, 200000000
+Magic: 10296, 99, 200000000
+Mining: 9681, 110, 200000000
+Prayer: 7126, 99, 200000000
+Ranged: 12375, 99, 200000000
+Runecrafting: 7363, 99, 200000000
+Smithing: 4497, 110, 200000000
+Strength: 5101, 99, 200000000
+Woodcutting: 7325, 110, 200000000
+
+
+Member Skills (Alphabetical)
+
+Agility: 3799, 99, 200000000
+Archaeology: 1986, 120, 200000000
+Construction: 5262, 99, 200000000
+Divination: 5507, 99, 200000000
+Farming: 14329, 120, 200000000
+Herblore: 13559, 120, 200000000
+Hunter: 4993, 99, 200000000
+Invention: 7601, 120, 200000000
+Necromancy: 4730, 120, 200000000
+Slayer: 13267, 120, 200000000
+Summoning: 6600, 99, 200000000
+Thieving: 10706, 99, 200000000
+
+
+Skills Sorted By Type (Alphabetical)
+
+Combat Skills:
+
+Attack: 5318, 99, 200000000
+Constitution: 5129, 99, 200000000
+Defence: 10660, 99, 200000000
+Magic: 10296, 99, 200000000
+Necromancy: 4730, 120, 200000000
+Prayer: 7126, 99, 200000000
+Ranged: 12375, 99, 200000000
+Strength: 5101, 99, 200000000
+Summoning: 6600, 99, 200000000
+
+
+Gathering Skills:
+
+Archaeology: 1986, 120, 200000000
+Divination: 5507, 99, 200000000
+Farming: 14329, 120, 200000000
+Fishing: 8650, 99, 200000000
+Hunter: 4993, 99, 200000000
+Mining: 9681, 110, 200000000
+Woodcutting: 7325, 110, 200000000
+
+
+Artisan Skills:
+
+Construction: 5262, 99, 200000000
+Cooking: 6841, 99, 200000000
+Crafting: 6762, 99, 200000000
+Firemaking: 1110, 110, 200000000
+Fletching: 6623, 110, 200000000
+Herblore: 13559, 120, 200000000
+Runecrafting: 7363, 99, 200000000
+Smithing: 4497, 110, 200000000
+
+
+Support Skills:
+
+Agility: 3799, 99, 200000000
+Dungeoneering: 6529, 120, 200000000
+Invention: 7601, 120, 200000000
+Slayer: 13267, 120, 200000000
+Thieving: 10706, 99, 200000000
+
+
+Thank you for using this tool. Special thanks to Edgar Bowlin III for access to RASPIA.
+
+-FIN-
+
+

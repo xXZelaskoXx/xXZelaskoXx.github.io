@@ -1,0 +1,48 @@
+@font-face{
+    font-family: 'rs';
+    src: url('TrajanusBricks.ttf') format('truetype');
+}
+
+*{
+	background: black;
+	color: silver;
+	weight: 800;
+	border-color: #B59410 !important;
+}
+
+label{
+    font-size: 2.25em;
+}
+
+body{
+	font-family: 'rs' !important;
+}
+
+h1{
+	font-size: 4em;
+	color: silver;
+}
+
+h2{
+	font-size: 3em;
+}
+
+p{
+	font-size: 1.25em;
+}
+
+.center{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	text-align: center;
+}
+
+input{
+	font-size: 2em;
+	border: 3px solid skyblue;
+}
+
+hr{
+	border-color: silver;
+}

@@ -1,0 +1,129 @@
+RuneScape 3 Current Skill Levels as of 2024-12-13
+
+Username: toon link318
+
+
+
+Skill Name, Global Rank, Level, Experience
+
+Overall: 1226132, 319, 154605
+Attack: 1090397, 35, 23064
+Defence: 1048947, 38, 31117
+Strength: 1121911, 31, 15940
+Constitution: 1144040, 36, 25137
+Ranged: 1089678, 17, 3519
+Prayer: -1, 1, -1
+Magic: -1, 1, -1
+Cooking: 1257252, 15, 2664
+Woodcutting: 1099316, 33, 19136
+Fletching: -1, 1, -1
+Fishing: -1, 1, -1
+Firemaking: 1033478, 30, 14246
+Crafting: -1, 1, -1
+Smithing: -1, 1, -1
+Mining: -1, 1, -1
+Herblore: -1, 1, -1
+Agility: -1, 1, -1
+Thieving: -1, 1, -1
+Slayer: -1, 1, -1
+Farming: -1, 1, -1
+Runecrafting: -1, 1, -1
+Hunter: -1, 1, -1
+Construction: -1, 1, -1
+Summoning: -1, 1, -1
+Dungeoneering: 704818, 30, 14796
+Divination: -1, 1, -1
+Invention: -1, 0, -1
+Archaeology: -1, 1, -1
+Necromancy: -1, 1, -1
+
+
+Free to Play Skills (Alphabetical)
+
+Attack: 1090397, 35, 23064
+Constitution: 1144040, 36, 25137
+Cooking: 1257252, 15, 2664
+Crafting: -1, 1, -1
+Defence: 1048947, 38, 31117
+Dungeoneering: 704818, 30, 14796
+Firemaking: 1033478, 30, 14246
+Fishing: -1, 1, -1
+Fletching: -1, 1, -1
+Magic: -1, 1, -1
+Mining: -1, 1, -1
+Prayer: -1, 1, -1
+Ranged: 1089678, 17, 3519
+Runecrafting: -1, 1, -1
+Smithing: -1, 1, -1
+Strength: 1121911, 31, 15940
+Woodcutting: 1099316, 33, 19136
+
+
+Member Skills (Alphabetical)
+
+Agility: -1, 1, -1
+Archaeology: -1, 1, -1
+Construction: -1, 1, -1
+Divination: -1, 1, -1
+Farming: -1, 1, -1
+Herblore: -1, 1, -1
+Hunter: -1, 1, -1
+Invention: -1, 0, -1
+Necromancy: -1, 1, -1
+Slayer: -1, 1, -1
+Summoning: -1, 1, -1
+Thieving: -1, 1, -1
+
+
+Skills Sorted By Type (Alphabetical)
+
+Combat Skills:
+
+Attack: 1090397, 35, 23064
+Constitution: 1144040, 36, 25137
+Defence: 1048947, 38, 31117
+Magic: -1, 1, -1
+Necromancy: -1, 1, -1
+Prayer: -1, 1, -1
+Ranged: 1089678, 17, 3519
+Strength: 1121911, 31, 15940
+Summoning: -1, 1, -1
+
+
+Gathering Skills:
+
+Archaeology: -1, 1, -1
+Divination: -1, 1, -1
+Farming: -1, 1, -1
+Fishing: -1, 1, -1
+Hunter: -1, 1, -1
+Mining: -1, 1, -1
+Woodcutting: 1099316, 33, 19136
+
+
+Artisan Skills:
+
+Construction: -1, 1, -1
+Cooking: 1257252, 15, 2664
+Crafting: -1, 1, -1
+Firemaking: 1033478, 30, 14246
+Fletching: -1, 1, -1
+Herblore: -1, 1, -1
+Runecrafting: -1, 1, -1
+Smithing: -1, 1, -1
+
+
+Support Skills:
+
+Agility: -1, 1, -1
+Dungeoneering: 704818, 30, 14796
+Invention: -1, 0, -1
+Slayer: -1, 1, -1
+Thieving: -1, 1, -1
+
+
+Thank you for using this tool. Special thanks to Edgar Bowlin III for access to RASPIA.
+
+-FIN-
+
+

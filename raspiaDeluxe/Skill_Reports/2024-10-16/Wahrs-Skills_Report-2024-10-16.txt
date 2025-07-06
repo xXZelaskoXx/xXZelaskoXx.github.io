@@ -1,0 +1,127 @@
+RuneScape 3 Current Skill Levels as of 2024-10-16
+
+Username: Wahrs
+
+As Returned Per API
+
+Skill Name, Global Rank, Level, Experience
+
+Overall: 294390, 2291, 102733272
+Attack: 428147, 81, 2262897
+Defence: 419306, 82, 2641535
+Strength: 613239, 70, 760214
+Constitution: 421784, 87, 4292042
+Ranged: 406630, 81, 2251671
+Prayer: 445469, 70, 776998
+Magic: 495955, 76, 1408812
+Cooking: 444005, 73, 1087005
+Woodcutting: 459413, 78, 1751159
+Fletching: 525420, 66, 519074
+Fishing: 370779, 79, 1879320
+Firemaking: 411921, 78, 1652326
+Crafting: 302124, 85, 3532397
+Smithing: 152850, 100, 14438959
+Mining: 117002, 103, 19732696
+Herblore: 374362, 76, 1445556
+Agility: 362986, 75, 1332911
+Thieving: 322644, 73, 1009536
+Slayer: 322503, 84, 3212126
+Farming: 258533, 83, 2729278
+Runecrafting: 360206, 68, 619094
+Hunter: 339997, 72, 971823
+Construction: 408064, 69, 710214
+Summoning: 365023, 72, 981215
+Dungeoneering: 414418, 68, 630068
+Divination: 242167, 87, 4117949
+Invention: 250285, 62, 5206501
+Archaeology: 171641, 98, 11858921
+Necromancy: 136699, 95, 8920975
+
+
+Free to Play Skills (Alphabetical)
+
+Attack: 428147, 81, 2262897
+Constitution: 421784, 87, 4292042
+Cooking: 444005, 73, 1087005
+Crafting: 302124, 85, 3532397
+Defence: 419306, 82, 2641535
+Dungeoneering: 414418, 68, 630068
+Firemaking: 411921, 78, 1652326
+Fishing: 370779, 79, 1879320
+Fletching: 525420, 66, 519074
+Magic: 495955, 76, 1408812
+Mining: 117002, 103, 19732696
+Prayer: 445469, 70, 776998
+Ranged: 406630, 81, 2251671
+Runecrafting: 360206, 68, 619094
+Smithing: 152850, 100, 14438959
+Strength: 613239, 70, 760214
+Woodcutting: 459413, 78, 1751159
+
+
+Member Skills (Alphabetical)
+
+Agility: 362986, 75, 1332911
+Archaeology: 171641, 98, 11858921
+Construction: 408064, 69, 710214
+Divination: 242167, 87, 4117949
+Farming: 258533, 83, 2729278
+Herblore: 374362, 76, 1445556
+Hunter: 339997, 72, 971823
+Invention: 250285, 62, 5206501
+Necromancy: 136699, 95, 8920975
+Slayer: 322503, 84, 3212126
+Summoning: 365023, 72, 981215
+Thieving: 322644, 73, 1009536
+
+
+Skills Sorted By Type (Alphabetical)
+
+Combat Skills:
+
+Attack: 428147, 81, 2262897
+Constitution: 421784, 87, 4292042
+Defence: 419306, 82, 2641535
+Magic: 495955, 76, 1408812
+Necromancy: 136699, 95, 8920975
+Prayer: 445469, 70, 776998
+Ranged: 406630, 81, 2251671
+Strength: 613239, 70, 760214
+Summoning: 365023, 72, 981215
+
+
+Gathering Skills:
+
+Archaeology: 171641, 98, 11858921
+Divination: 242167, 87, 4117949
+Farming: 258533, 83, 2729278
+Fishing: 370779, 79, 1879320
+Hunter: 339997, 72, 971823
+Mining: 117002, 103, 19732696
+Woodcutting: 459413, 78, 1751159
+
+
+Artisan Skills:
+
+Construction: 408064, 69, 710214
+Cooking: 444005, 73, 1087005
+Crafting: 302124, 85, 3532397
+Firemaking: 411921, 78, 1652326
+Fletching: 525420, 66, 519074
+Herblore: 374362, 76, 1445556
+Runecrafting: 360206, 68, 619094
+Smithing: 152850, 100, 14438959
+
+
+Support Skills:
+
+Agility: 362986, 75, 1332911
+Dungeoneering: 414418, 68, 630068
+Invention: 250285, 62, 5206501
+Slayer: 322503, 84, 3212126
+Thieving: 322644, 73, 1009536
+
+
+Thank you for using this tool. Special thanks to Edgar Bowlin III for access to RASPIA.
+
+-FIN-
