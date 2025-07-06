@@ -1,0 +1,171 @@
+<!-- 
+Dylan Zelasko
+CITC 2390
+
+Mid-term project
+
+employeeSearch: Allows employee to search club members by information
+
+business: Doug's Burger Shack (fictional)
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="styles.css">
+	<script type="text/javascript" src="main.js"></script>
+	<script defer src="https://pyscript.net/releases/2022.12.1/pyscript.js"></script>
+	<title>Doug's Burger Shack! Member Search</title>
+</head>
+<body>
+
+<!--Navigation menu that spans the top of the webpage-->
+	
+	<table>
+		<tr>
+			<td class="text-center">
+				<a href="index.html">HOME</a>
+			</td>
+			<td class="text-center">
+				<a href="menu.html">MENU</a>
+			</td>
+			<td class="text-center">
+				<a href="locations.html">LOCATIONS</a>
+			</td>
+		</tr>
+	</table>
+	<div>
+	<h2 class="text-center" style="background: saddlebrown;">Member Database</h2>
+
+<!-- Disclaimer of unauthorized access-->
+
+	<p>Access to the Doug's Club Member Database is for authorized personnel only. Unauthorized Access to this database may result in legal consequences. Thank you for your consideration!
+	</p>
+	</div>
+
+<!--Fields for database search-->
+
+	<div style="background: green;">
+		<h2 class="text-center">Search Information</h2>
+
+	<form action="localhost:1234/searchMember.php" method="get">
+		<table>
+			<tr>
+				<th class="menu">Field</th>
+				<th class="menu">Information</th>
+			</tr>
+			<tr>
+				<td class="menu-item1">First Name
+				</td>
+				<td class="menu-item1"><input type="text" name ="firstName"id="firstName" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Last Name
+				</td>
+				<td class="menu-item2"><input type="text" name="lastName" id="lastName" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">Birthday
+				</td>
+				<td class="menu-item1"><input type="date" name="birthday" id="birthday" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Phone Number (XXX-XXX-XXXX)
+				</td>
+				<td class="menu-item2"><input type="text" name="phoneNumber" id="phoneNumber" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">Favorite Color
+				</td>
+				<td class="menu-item1"><input type="text" name="favoriteColor" id="favoriteColor" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Spouse Name (N/A if not applicable)
+				</td>
+				<td class="menu-item2"><input type="text" name="spouseName" id="spouseName" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">First Pet (N/A if not applicable)
+				</td>
+				<td class="menu-item1"><input type="text" name="firstPet" id="firstPet" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Alma Mater (N/A if not Applicable)
+				</td>
+				<td class="menu-item2"><input type="text" name="almaMater" id="almaMater" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">Primary Vehicle (N/A if not Applicable)
+				</td>
+				<td class="menu-item1"><input type="text" name="primaryVehicle" id="primaryVehicle"  class="center">
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Occupation (N/A if not Applicable)
+				</td>
+				<td class="menu-item2"><input type="text" name="occupation" id="occupation" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">Favorite Movie
+				</td>
+				<td class="menu-item1"><input type="text" name="favoriteMovie" id="favoriteMovie" class="center">
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Zip Code
+				</td>
+				<td class="menu-item2"><input type="text" name="zipCode" id="zipCode" class="center" >
+				</td>
+			</tr>
+		</table>
+		<h2 class="text-center" style="background: palevioletred; color: black;">Employee Information</h2>
+
+<!-- Employee Credential entry area-->
+
+		<table>
+			<tr>
+				<td class="menu-item1">Username
+				</td>
+				<td class="menu-item1"><input class="center" type="text" id="userName" required>
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Password
+				</td>
+				<td class="menu-item2"><input class="center" type="password" id="password" required>
+				</td>
+			</tr>
+		</table>
+
+<!-- submit to execute php query-->
+	<br>
+	<input type="submit" id="search" class="center">
+
+<!--End form to hold values for php query-->
+	</form>
+	<br>
+	</div>
+	<div style="background: palevioletred;">
+
+<!-- link to new Member Enrollment-->
+
+		<h2 class="text-center"><a href="employeeMenu.html">Member Enrollment</a></h2>
+	</div>
+</body>
+
+<!-- General Disclaimer Footer -->
+
+<footer>
+	<p class="text-center">Copyright Grandpappy Douglas 2021. Doug's Burger Shack is not legally responsible for any and all spiritual experiences derived from the consumption of food products. Consume at your own risk.
+</footer>
+</html>

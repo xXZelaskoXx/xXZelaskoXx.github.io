@@ -1,0 +1,169 @@
+<!-- 
+Dylan Zelasko
+CITC 2390
+
+Mid-term project
+
+menuSearch: allows user to search menu for food items by ingredient
+
+business: Doug's Burger Shack (fictional)
+-->
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="stylesheet" href="styles.css">
+	<script type="text/javascript" src="main.js"></script>
+	<title>Doug's Burger Shack! Doug's Club Enrollment</title>
+</head>
+<body>
+
+<!--Navigation menu that spans the top of the webpage-->
+	<table>
+		<tr>
+			<td class="text-center">
+				<a href="index.html">HOME</a>
+			</td>
+			<td class="text-center">
+				<a href="menu.html">MENU</a>
+			</td>
+			<td class="text-center">
+				<a href="locations.html">LOCATIONS</a>
+			</td>
+		</tr>
+	</table>
+	<div>
+
+<!--Explanation of this webpage's purpose-->
+
+	<h2 class="text-center" style="background: saddlebrown;">Our Purpose</h2>
+	<p>Here at Doug's Burger Shack, we care for our customers. We really care about them. That's why we offer our Doug's Club Reward Program! Please enter the required information to enroll our loyal customers in the program.
+	</p>
+	</div>
+	<div style="background: green;">
+
+<!--Entry Table for new member enrollment-->
+	
+	<form action="addMember.php" method="post">
+		<h2 class="text-center">Customer Information</h2>
+		<table>
+			<tr>
+				<th class="menu">Field</th>
+				<th class="menu">Information</th>
+			</tr>
+			<tr>
+				<td class="menu-item1">First Name
+				</td>
+				<td class="menu-item1"><input type="text" name="firstName" id="firstName" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Last Name
+				</td>
+				<td class="menu-item2"><input type="text" name="lastName" id="lastName" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">Birthday
+				</td>
+				<td class="menu-item1"><input type="date" name="birthday" id="birthday" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Phone Number (XXX-XXX-XXXX)
+				</td>
+				<td class="menu-item2"><input type="text" name="phoneNumber" id="phoneNumber" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">Favorite Color
+				</td>
+				<td class="menu-item1"><input type="text" name="favoriteColor" id="favoriteColor" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Spouse Name (N/A if not applicable)
+				</td>
+				<td class="menu-item2"><input type="text" name="spouseName" id="spouseName" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">First Pet (N/A if not applicable)
+				</td>
+				<td class="menu-item1"><input type="text" name="firstPet" id="firstPet" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Alma Mater (N/A if not Applicable)
+				</td>
+				<td class="menu-item2"><input type="text" name="almaMater" id="almaMater" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">Primary Vehicle (N/A if not Applicable)
+				</td>
+				<td class="menu-item1"><input type="text" name="primaryVehicle" id="primaryVehicle"  class="center">
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Occupation (N/A if not Applicable)
+				</td>
+				<td class="menu-item2"><input type="text" name="occupation" id="occupation" class="center" >
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">Favorite Movie
+				</td>
+				<td class="menu-item1"><input type="text" name="favoriteMovie" id="favoriteMovie" class="center">
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Zip Code
+				</td>
+				<td class="menu-item2"><input type="text" name="zipCode" id="zipCode" class="center" >
+				</td>
+			</tr>
+		</table>
+		<h2 class="text-center" style="background: palevioletred; color: black;">Employee Information</h2>
+
+<!--Entry Area for employee credentials-->
+
+		<table>
+			<tr>
+				<td class="menu-item1">Username
+				</td>
+				<td class="menu-item1"><input class="center" name="userName" type="text" id="userName" required>
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item2">Password
+				</td>
+				<td class="menu-item2"><input class="center" name="password" type="password" id="password" required>
+				</td>
+			</tr>
+			<tr>
+				<td class="menu-item1">To Write:
+				</td>
+				<td class="menu-item1"><p id="csvString">placeholder</p>
+				</td>
+		</table>
+		<input type="submit" class="center">
+	</form>
+
+		<br>
+	</div>
+
+<!-- Link to the database search function -->
+
+	<div style="background: palevioletred;">
+		<h2 class="text-center"><a href="employeeSearch.html">Database Search</a></h2>
+	</div>
+</body>
+
+<!-- General Disclaimer Footer -->
+
+<footer>
+	<p class="text-center">Copyright Grandpappy Douglas 2021. Doug's Burger Shack is not legally responsible for any and all spiritual experiences derived from the consumption of food products. Consume at your own risk.
+</footer>
+</html>
